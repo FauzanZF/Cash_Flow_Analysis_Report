@@ -1,3 +1,7 @@
+![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/homepageInterface.png?raw=true)
+![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/Login%26registerInterface.png?raw=true)
+![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/MainInterface.png?raw=true)
+
 Langkah2 untuk mencoba program
 
 1.Download Folder "CashFlowAnalysisReport", simpan pada folder xampp/htdocs
