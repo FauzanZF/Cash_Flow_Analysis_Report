@@ -1,7 +1,6 @@
 ![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/homepageInterface.png?raw=true)
 ![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/Login%26registerInterface.png?raw=true)
 ![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/MainInterface.png?raw=true)
-![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/MainInterface.png?raw=true)
 ![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/Skema_Database.jpg)
 ![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/Sitemap_Flowchart.jpg)
 
