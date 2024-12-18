@@ -6,7 +6,7 @@
 
 
 <br> </br>
-Langkah2 untuk mencoba program.
+Langkah2 untuk mencoba program:
 
 - Download Folder "CashFlowAnalysisReport", simpan pada folder xampp/htdocs
 - Buka folder pada VsCode(opsional)
