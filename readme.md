@@ -12,4 +12,4 @@ Langkah2 untuk mencoba program:
 - Buka folder pada VsCode(opsional)
 - unduh lalu import file 'cfar.sql' di database menggunakan phpmyadmin
 - nyalakan xampp bagian apache dan mwsql
-- run program pada localhost
+- run program pada localhost.
