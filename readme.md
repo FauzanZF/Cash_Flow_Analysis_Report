@@ -5,7 +5,7 @@
 ![alt text](https://github.com/FauzanZF/Cash_Flow_Analysis_Report/blob/main/Sitemap_Flowchart.jpg)
 
 
-<br> </br>..
+<br> </br>...
 Langkah2 untuk mencoba program:
 
 - Download Folder "CashFlowAnalysisReport", simpan pada folder xampp/htdocs
